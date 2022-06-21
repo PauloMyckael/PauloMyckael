@@ -1,7 +1,5 @@
 ## Olá!!! Sou Paulo Myckael👋
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCteovF_0VnpTSqd0yhFMSJw)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@myckaeldev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/myckaeladm)
 
 ![Paulo Myckael's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomyckael&show_icons=true&theme=dark)
