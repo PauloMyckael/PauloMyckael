@@ -5,11 +5,9 @@
 
 </div>
 <div align="center">
-  <a href="github.com/paulomyckael">
-  </div
-  <div>
-     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=paulomyckael&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomyckael&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="github.com/PauloMyckael">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
