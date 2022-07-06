@@ -6,6 +6,8 @@
 </div>
 <div align="center">
   <a href="github.com/paulomyckael">
+  </div
+  <div>
      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=paulomyckael&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomyckael&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
@@ -40,11 +42,4 @@
   <a href="https://www.instagram.com/myckaeldev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulomyckael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:myckaelpaulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-    <br>
-        <h2 align="center">Formações Acadêmicas</h2>
-    </br>
-<img align="center" alt="Danki Code" height="150" margin="60px" width="290" src="https://cursos.dankicode.com/og-img.jpg">
 </div>
