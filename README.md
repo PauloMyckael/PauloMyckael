@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Meu nome é <a href="https://www.linkedin.com/in/paulomyckael/"><i>Paulo Myckael</i></a> 😃️</h1>
+  <h1 align="center">Olá!!! Sou <a href="https://www.linkedin.com/in/paulomyckael/"><i>Paulo Myckael</i></a> 😃️</h1>
 
   <i><h2 align="center">Sou um desenvolvedor Júnior!!! Ansioso para aprender mais a cada dia</h2></i>
 
