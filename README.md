@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá!!! Sou <a href="https://www.linkedin.com/in/paulomyckael/"><i>Paulo Myckael</i></a> 😃️</h1>
 
-  <i><h2 align="center">Sou um desenvolvedor Júnior!!! Ansioso para aprender mais a cada dia</h2></i>
+  <i><h2 align="center">Sou programador freelancer, fazendo meus próprios projetos</h2></i>
 
 </div>
 <div style="border: 1px solid black>
@@ -25,15 +25,7 @@
 <br>
 </div><!-- Tecnologias--->
 
-<!-- Habilidades Extras
-<div>
-    <br>
-        <h3 align="center">Habilidades extras</h3>
-    </br>
-    <img align="center" alt="Canva" height="40" margin="auto" width="90" src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/><img align="center" alt="Photoshop" height="40" margin="auto" width="40" src= "https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs4.svg"/><img align="center" alt="XD" height="40" margin="auto" width="110" src= "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-    </div>-->
-
-
+<!--
   <h2 align="center">Redes Sociais
     <br>
 <div align="center"> <br>
@@ -41,3 +33,4 @@
   <a href="https://www.linkedin.com/in/paulomyckael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:myckaelpaulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+-->
