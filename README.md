@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá!!! Sou <a href="https://www.linkedin.com/in/paulomyckael/"><i>Paulo Myckael</i></a> 😃️</h1>
 
-  <i><h2 align="center">Sou programador freelancer, fazendo meus próprios projetos</h2></i>
+  
 
 </div>
 <div style="border: 1px solid black>
