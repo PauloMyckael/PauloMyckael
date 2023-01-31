@@ -1,8 +1,7 @@
-<div style="border: 1px solid black>
-  <a href="github.com/PauloMyckael">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div align="center">
+  <a href="https://github.com/PauloMyckael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <h2 align="center">Tecnologias ultilizadas
