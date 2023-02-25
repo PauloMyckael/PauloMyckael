@@ -1,15 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1455d9&height=120&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF4000&background=FF802300&center=true&width=460&lines=Meu+nome+%C3%A9+Paulo+Myckael;Dou+boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1455d9&background=FF802300&center=true&width=460&lines=Meu+nome+%C3%A9+Paulo+Myckael;Dou+boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
 </div>
 <br></br>
-
 
 #
 <div align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000000&color=ff4000&line=ffffff&point=ff4000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000000&color=1455d9&line=ffffff&point=1455d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
  <p align="center">
@@ -17,14 +16,15 @@
 </p>
 -->
 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=ff4000&icon_color=ff4000&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" />
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=ff4000&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=1455d9&icon_color=1455d9&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=1455d9&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <!--
 # Projetos Destacados
 
 > Portfólio
+> Utilatry
 -->
 
 
@@ -49,7 +49,6 @@
 
 # Contato📥
 <h2>Se você tiver algum projeto interessante para discutir ou simplesmente quiser entrar em contato, fique à vontade para me enviar uma mensagem através do e-mail abaixo ou das minhas redes sociais.
-
 <br></br>
 
 <div align="center">
@@ -60,4 +59,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1455d9&height=120&section=footer"/>
