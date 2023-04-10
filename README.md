@@ -8,7 +8,7 @@
 #
 <div align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000000&color=1455d9&line=ffffff&point=1455d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000000&color=59c3e2&line=ffffff&point=59c3e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
  <p align="center">
