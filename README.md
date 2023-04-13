@@ -21,7 +21,7 @@
 </div>
 <br>
 <div align="center"> 
- <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloMyckael&theme=react&hide_border=true" />
+ <img width="57%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloMyckael&theme=react&hide_border=true" />
  </div>
 
 <!--
