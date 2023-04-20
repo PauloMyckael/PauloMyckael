@@ -16,7 +16,7 @@
 </p>
 -->
  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&theme=react&show_icons=true&hide_border=true&count_private=true" />
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <br>
