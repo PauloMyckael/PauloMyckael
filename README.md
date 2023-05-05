@@ -8,20 +8,14 @@
 #
 <div align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000000&color=59c3e2&line=ffffff&point=59c3e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000&color=1455d9&line=fff&point=1455d9&area=true&hide_border=true)](https://github.com/PauloMyckael)
 
-<!--
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PauloMyckael&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
--->
- 
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&theme=react&show_icons=true&hide_border=true&layout=compact" />
+
+ <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=1455d9&icon_color=1455d9&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=1455d9&text_color=ffffff&bg_color=0d1117" />
 </div>
 <br>
 <div align="center"> 
- <img width="57%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloMyckael&theme=react&hide_border=true" />
+ <img src="https://github-profile-trophy.vercel.app/?username=PauloMyckael&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
  </div>
 
 <!--
