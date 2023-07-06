@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1455d9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d2a68&height=120&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1455d9&background=FF802300&center=true&width=460&lines=Desenvolvedor+Front+End;Dou+boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9d2a68&background=FF802300&center=true&width=460&lines=Desenvolvedor+Front+End;Dou+boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
 </div>
 <br></br>
 
@@ -11,7 +11,7 @@
 
 
 
- <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=1455d9&icon_color=1455d9&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=1455d9&text_color=ffffff&bg_color=0d1117" />
+ <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=9d2a68&icon_color=9d2a68&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=9d2a68&text_color=ffffff&bg_color=0d1117" />
 </div>
 <br>
 <div align="center"> 
@@ -57,4 +57,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1455d9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d2a68&height=120&section=footer"/>
