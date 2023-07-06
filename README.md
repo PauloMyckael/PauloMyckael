@@ -8,7 +8,7 @@
 #
 <div align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PauloMyckael&bg_color=000&color=1455d9&line=fff&point=1455d9&area=true&hide_border=true)](https://github.com/PauloMyckael)
+
 
 
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=1455d9&icon_color=1455d9&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=1455d9&text_color=ffffff&bg_color=0d1117" />
