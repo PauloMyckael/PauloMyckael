@@ -14,8 +14,7 @@
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloMyckael&show_icons=true&count_private=true&hide_border=true&title_color=9d2a68&icon_color=9d2a68&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Myckael github stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMyckael&layout=compact&hide_border=true&title_color=9d2a68&text_color=ffffff&bg_color=0d1117" />
 </div>
 <br>
-<div align="center"> 
- <img src="https://github-profile-trophy.vercel.app/?username=PauloMyckael&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
  </div>
 
 <!--
@@ -24,31 +23,28 @@
 > Portfólio
 > Utilatry
 -->
-
+<div align="center">
 
 # Habilidades 📖
 
+
+ 
 ![HTML 5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=f45430&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-
-
-<h2> 🕓Estudando no momento: </h2>
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 <!--
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 -->
-
+</div>
 
 <br></br>
 
 # Contato📥
 <h2>Se você tiver algum projeto interessante para discutir ou simplesmente quiser entrar em contato, fique à vontade para me enviar uma mensagem através do e-mail abaixo ou das minhas redes sociais.
-<br></br>
+<br>
 
 <div align="center">
 
