@@ -43,7 +43,7 @@
 <br></br>
 
 # Contato📥
-<h2>Se você tiver algum projeto interessante para discutir ou simplesmente quiser entrar em contato, fique à vontade para me enviar uma mensagem através do e-mail abaixo ou das minhas redes sociais.
+<h2> Se você tiver algum projeto interessante para discutir ou simplesmente quiser entrar em contato, fique à vontade para me enviar uma mensagem através do e-mail abaixo ou das minhas redes sociais.
 <br>
 
 <div align="center">
