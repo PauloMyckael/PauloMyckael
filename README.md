@@ -44,13 +44,11 @@
 
 # Contato📥
 
-<h2> Se você tiver algum projeto interessante para discutir ou simplesmente quiser entrar em contato, fique à vontade para me enviar uma mensagem através do e-mail abaixo ou das minhas redes sociais.
-<br>
-
 <div align="center">
 
 <a href = "mailto:contato.paulomyckael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulomyckael/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117&textColor=0D1117"/></a>
+<a href="https://twitter.com/myckaeldev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 </div>
 
